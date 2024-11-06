@@ -51,7 +51,7 @@ function Network() {
             })}
         </div>
       )
-} monty bhaya
+}
 
 export default Network
-monty bhaya 
+
